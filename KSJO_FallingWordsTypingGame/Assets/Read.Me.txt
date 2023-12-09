@@ -1,0 +1,13 @@
+Kristopher S Olds
+University of Advancing Technology
+Innovation Project - APIs in Unity
+
+Project Description - While using the tutorial produced by Brackeys (Falling Words Typing Game) as a base for the project, I implemented two scripts and modified the code scripts of Brackeys' project to produce my desired effects. First, I implemented an Image Search API that would find, download, and display images of the words that were typed by the player, this would occur with each word typed. Second, I implemented a Random Word API that would produce more words for the game so things wouldn't get stale.
+
+The game is currently not in a completed state - The game works in the way that I want it to, but there is no Main Menu, Pause Menu, Game Over function, Game Over Menu, Score function, etc.
+
+The scrips within the folder "Brackeys" are all the scripts from Brackeys' GitHub -
+https://github.com/Brackeys/Falling-Words-Typing-Game/tree/master
+
+This is the livestream I followed to recreate Brackeys game -
+https://www.youtube.com/watch?v=HvMrOoUeqO0
